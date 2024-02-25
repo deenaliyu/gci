@@ -96,9 +96,9 @@ $("#CreateAccountBtn").on("click", (e) => {
           <td>${userInvoice.email}</td>
           <td>${userInvoice.education}</td>
           <td>${userInvoice.age}</td>
-          <td>${userInvoice.gender}</td>
           <td>${userInvoice.occupation}</td>
           <td>${userInvoice.phone}</td>
+          <td>${userInvoice.question}</td>
           <td>${userInvoice.time_in}</td>
           </tr>
             `
